@@ -1,1 +1,1 @@
-![my Github] github.com/JamakaDev
+![my Github](github.com/JamakaDev)
